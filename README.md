@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![juancarloschavezortega@gmail.com](images/envelope.svg)](mailto:juancarloschavezortega@gmail.com)&nbsp;&nbsp;[![/juancarloschavezortega](images/linkedin.svg)](https://www.linkedin.com/in/juancarloschavezortega/)&nbsp;&nbsp;[![@jeancarlo13](images/github.svg)](https://github.com/jeancarlo13)&nbsp;&nbsp;[![@jchavez-tenco](images/github.svg)](https://github.com/jchavez-tenco)&nbsp;&nbsp;[![@jeancarlo13](images/twitter.svg)](https://twitter.com/jeancarlo13)
+[![juancarloschavezortega@gmail.com](images/envelope.svg)](mailto:juancarloschavezortega@gmail.com)&nbsp;&nbsp;[![/juancarloschavezortega](images/linkedin.svg)](https://www.linkedin.com/in/juancarloschavezortega/)&nbsp;&nbsp;[![@jeancarlo13](images/github.svg)](https://github.com/jeancarlo13)&nbsp;&nbsp;[![@jeancarlo13](images/twitter.svg)](https://twitter.com/jeancarlo13)
 
 Software engineer, team lead and passionate of software development, able of bringing forth expertise in design, installation, testing, and maintenance of software systems, leadership of development teams and cutting edge development tools and procedures. Equipped with a diverse skill-set. Proficient on various platforms and development languages. Able of effectively self-manager un independent projects, as well as collaborated or as lead of a productive team.
 
